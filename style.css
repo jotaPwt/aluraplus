@@ -4,6 +4,7 @@
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
     --fonte-principal: 'inter';
+    --mudança-ao-passar-o-mouse: #c145d1;
 }
 
 body {
@@ -159,7 +160,7 @@ body {
 }
 
 .rodape__link a:hover {
-    color: var(--botao-azul);
+    color: var(--mudança-ao-passar-o-mouse);
     text-decoration: none;
 }
 
